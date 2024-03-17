@@ -1,6 +1,6 @@
 ### [Ewha-thon]
 
-# **🌸 baeullimFlower : 배울림꽃 🌸**
+# **🌸 BaeullimFlower : 배울림꽃 🌸**
 
 ***🍯 MeltingPot Team***
 
